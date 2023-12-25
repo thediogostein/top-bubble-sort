@@ -7,7 +7,6 @@ def bubble_sort(arr)
                 arr[x - 1] = arr[x]
                 arr[x] = temp
             end 
-            
         end
     end 
     p arr
